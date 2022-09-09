@@ -1,0 +1,16 @@
+Debug
+Release
+include
+libs
+ikpFlac.dll
+ikpMP3.dll
+irrKlang.dll
+irrKlang.exp
+irrKlang.liv
+the_wall.aps
+the_wall.aps.filter
+the_wall.aps.rc
+the_wall.aps.user
+the_wall.aps.vcxproj
+the_wall.aps.vcxproj.filters
+the_wall.aps.vcxproj.user
